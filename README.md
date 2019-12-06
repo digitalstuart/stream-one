@@ -1,7 +1,3 @@
-# Code Institute
+# My Very First Web Page
 
-Welcome digitalstuart,
-
-We have preinstalled all of the tools you need to get started.
-
-Happy coding!
+Welcome!
